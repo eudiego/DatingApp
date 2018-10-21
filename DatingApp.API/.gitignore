@@ -1,5 +1,5 @@
 .vscode
-bin
-obs
 *.db
 .suo
+obj/
+bin
